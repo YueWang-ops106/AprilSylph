@@ -4,9 +4,7 @@ I am a WebExtension developer and Tumblr theme author.
 
 For what I'm currently working on, check out my pinned repositories!
 
-I hold the following certifications:
- - [freeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/aprilsylph/javascript-algorithms-and-data-structures) (May 2020)
- - [freeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/certification/aprilsylph/responsive-web-design) (June 2020)
+
 
 ---
 
